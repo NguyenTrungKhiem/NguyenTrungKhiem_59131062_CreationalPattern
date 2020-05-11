@@ -9,7 +9,7 @@ package BT1;
  *
  * @author Khiem
  */
-public class Main {
+public class Main{
     
     public static void main(String[] args) {
         HoaDonHeader HDH = new HoaDonHeader ("VM01","11/05/2020","Nguyen Trung Khiem");
